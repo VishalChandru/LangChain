@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# File
+llama-2-7b.ggmlv3.q8_0.bin
+
 # Distribution / packaging
 .Python
 build/
